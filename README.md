@@ -1,5 +1,6 @@
 # TensorFlow_profile
 TensorFlow下网络模型剖析
+1、分析单个卷积层的参数量、运算量以及效率
 # Reference
 [TensorFlow程序分析（profile）实战](https://blog.csdn.net/u014061630/article/details/82872115?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7)
 
