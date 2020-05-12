@@ -7,3 +7,5 @@ depth_separa_conv_1.py、depth_separa_conv_2.py
 
 # 参考资料
 [TensorFlow实现深度可分离卷积](https://blog.csdn.net/MOU_IT/article/details/82713232)
+
+[卷积有多少种？一文读懂深度学习中的各种卷积](https://zhuanlan.zhihu.com/p/57575810)
